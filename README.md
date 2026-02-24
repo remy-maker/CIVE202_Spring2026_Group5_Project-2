@@ -23,7 +23,7 @@ The respository is organized as follows:
 -`CIVE 202_Spring 2026_Group 5_Project #2.ipynb/`
  Includes all Python scripts used for calculations. Translated and organized similarly to the Excel workbook. 
 
--`Annotated Page/`
+-`CIVE 202_Spring 2026_Group 5_Project #2_ACD.pdf/`
  Includes a line-by-line explanation of code. With specific explanation of how the Excel formulas were converted into Python functions.
 
 -`CIVE 202_Spring 2026_Group 5_Project #2_Gantt Chart/`
@@ -78,7 +78,7 @@ Fully integrated mix design summary is displayed in the output cells at the end 
 
 ### Step 4: Scenario Testing and Refrences
 
-Our group has used the code devloped to run four different Scenarios containing different but realistic variables in cement, water-cement ratios, and aggreagate. The fully integrated mix design summaries of these four scenarios is listed at the bottom of the notebook. 
+Our group has used the code developed to run four different Scenarios containing different but realistic variables in cement, water-cement ratios, and aggreagate. The fully integrated mix design summaries of these four scenarios is listed at the bottom of the notebook. 
 
 </>
 
@@ -89,8 +89,8 @@ To translate the Exel workbook into Python code we broke down the project into m
 The following steps were performed:
 1. Define the fundamental constants used throughout the mix design (Unit weight for water, cubic yard of concrete)
 2. Define and calculate the first engineering function: Water Weight (Q). Using the parameters A-E to compute Q.
-3. Define and calcualte material volumes using specific gravity (For each parameter A-D, air volume, and water volume)
-4. Define and calculate total aggregate volume (X), total fine aggregate weight (Y), total coarse aggregated weight (Z), total other aggregate weight (AA). 
+3. Define and calculate material volumes using specific gravity (For each parameter A-D, air volume, and water volume)
+4. Define and calculate total aggregate volume (X), total fine aggregate weight (Y), total coarse aggregate weight (Z), total other aggregate weight (AA). 
 5. Collect user inputs sequentially. In this section, we introduce user input so that we can collect all user inputs in the mix design sheet. These will be the parameters used in the weight and volume calculations. 
 6. Run the completed mix design calculation
 7. Report the final mix design results. We present the results in a clear, well organized weight chart for 1 cubic yard of concrete. This output mirrors the final section of the NDOT Mix Design worksheet where material weights are summarized for batching.
@@ -120,9 +120,9 @@ The resulting mix satisfies all design requirements and parameters.
 
 This project migrated an existing concrete mix design model from an Excel-based workflow to a Python-based system. 
 
-The final calculated mix proportions satisfied NDOTS standard specifications and provides the client with a readable summary of the inputs entered by the user and the output of the calculations. 
+The final calculated mix proportions satisfied NDOT'S standard specifications and provides the client with a readable summary of the inputs entered by the user and the output of the calculations. 
 
-The use of computaitonal tools enured mathematical accuracy, organization, and consistency for future users.  
+The use of computational tools enured mathematical accuracy, organization, and consistency for future users.  
 
 </> 
 
