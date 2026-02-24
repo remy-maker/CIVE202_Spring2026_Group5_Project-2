@@ -26,7 +26,7 @@ The respository is organized as follows:
 -`Annotated Page/`
  Includes a line-by-line explanation of code. With specific explanation of how the Excel formulas were converted into Python functions.
 
--`results/`
+-`CIVE 202_Spring 2026_Group 5_Project #2_Gantt Chart/`
  Contains Gantt Chart results. 
 
 -`CIVE 202_Spring 2026_Group 5_Project #2_SOW.pdf/`
