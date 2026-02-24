@@ -32,7 +32,7 @@ The respository is organized as follows:
 -`CIVE 202_Spring 2026_Group 5_Project #2_SOW.pdf/`
  Contains Scope of Work outlining project's goals and defines the tasks to automate the NDOT model.
 
--`Final report/`
+-`CIVE 202_Spring2026_Group_5_Project_#2_Written_Report.pdf/`
    Contains detailed report on the background of the NDOT project and objectives. Detailed explanations of methods used to convert excel function to python code. As well as results on the four chosen mix designs, highlighting diffences in results. And refrences to NDOT or other refrences used. 
 
 -`READ.md`
