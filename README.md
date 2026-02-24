@@ -55,4 +55,5 @@ The respository is organized as follows:
 
 ### Excel File 
 1. Open `mix-design-submittal.xlsx`.
-2. 
+2. Navigate to the input section
+3. Note the 
